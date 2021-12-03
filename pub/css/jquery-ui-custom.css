@@ -1,0 +1,53 @@
+.ui-datepicker .ui-datepicker-prev, .ui-datepicker .ui-datepicker-next {
+    position: absolute;
+    top: 1px;
+    width: 1.8em;
+    height: 1.8em;
+}
+
+.ui-datepicker .ui-datepicker-title {
+    margin: 3px 3px;
+    /* line-height: 1.8em; */
+    text-align: left;
+    font-size: 12px;
+    margin-left: 8px;
+}
+
+.ui-widget-header {
+    border: 1px solid #FFFFFF;
+    background: #FFFFFF url(images/ui-bg_highlight-soft_75_cccccc_1x10000.png) 50% 50% repeat-x;
+    color: #222222;
+    font-weight: bold;
+}
+
+.ui-datepicker th {
+    padding: 3px 0px;
+    text-align: center;
+    font-weight: bold;
+    border: 0;
+    font-size: 12px;
+}
+
+.ui-datepicker td span, .ui-datepicker td a {
+    display: block;
+    padding: .2em;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.ui-datepicker .ui-datepicker-prev {
+    left: 190px; 
+    right: 35px;
+}
+
+.ui-datepicker .ui-datepicker-prev, .ui-datepicker .ui-datepicker-next {
+    position: absolute;
+    top: 1px;
+    width: 1.8em;
+    height: 1.8em;
+}
+
+/*.ui-widget-header .ui-icon {
+    background-image: url(images/down.png);
+}*/
